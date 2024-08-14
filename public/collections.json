@@ -1,0 +1,49 @@
+{
+  "collections": [
+    {
+      "name": "Search Engines",
+      "bookmarks": [
+        {
+          "url": "https://google.com",
+          "title": "Google",
+          "favicon": "https://www.google.com/favicon.ico"
+        },
+        {
+          "url": "https://bing.com",
+          "title": "Bing",
+          "favicon": "https://www.bing.com/sa/simg/bing_p_rr_teal_min.ico"
+        }
+      ]
+    },
+    {
+      "name": "Social Media",
+      "bookmarks": [
+        {
+          "url": "https://facebook.com",
+          "title": "Facebook",
+          "favicon": "https://www.facebook.com/favicon.ico"
+        },
+        {
+          "url": "https://twitter.com",
+          "title": "Twitter",
+          "favicon": "https://twitter.com/favicon.ico"
+        }
+      ]
+    },
+    {
+      "name": "Entertainment",
+      "bookmarks": [
+        {
+          "url": "https://netflix.com",
+          "title": "Netflix",
+          "favicon": "https://www.netflix.com/favicon.ico"
+        },
+        {
+          "url": "https://youtube.com",
+          "title": "YouTube",
+          "favicon": "https://www.youtube.com/favicon.ico"
+        }
+      ]
+    }
+  ]
+}
